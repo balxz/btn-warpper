@@ -17,18 +17,10 @@
     "lint:fix": "eslint src --ext .ts --fix",
     "format": "prettier --write \"src/**/*.ts\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vryptt/buttons-warpper.git"
-  },
   "keywords": [],
-  "author": "Vryptt",
+  "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/vryptt/buttons-warpper/issues"
-  },
-  "homepage": "https://github.com/vryptt/buttons-warpper#readme",
   "devDependencies": {
     "@types/node": "^24.9.1",
     "@typescript-eslint/eslint-plugin": "^8.46.2",
